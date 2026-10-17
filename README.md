@@ -1,103 +1,96 @@
-# Hi, I'm Fiza Batool 👋
+# 👋 Hi, I'm Fiza Batool
 
-### Web Developer | AI Applications & Automation
+### 💻 Web Developer | 🤖 AI Applications & Automation
 
-I am a Computer Science graduate interested in building modern web experiences, AI-powered applications, and intelligent automation solutions. I enjoy turning ideas into practical digital products using web technologies, machine learning, and AI tools.
+**Building modern web experiences and exploring AI-powered solutions.**
 
-- 💻 Interested in Web Development and AI Applications
-- 🤖 Exploring AI Agents, Chatbots, and Workflow Automation
-- 🧠 Experience building academic and personal projects
-- 🌱 Continuously learning and improving my technical skills
-- 🎯 Goal: Build useful, user-friendly, and intelligent digital solutions
+I am a Computer Science graduate passionate about web development, machine learning, AI applications, and workflow automation. I enjoy building practical projects that combine technology, creativity, and problem-solving.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiza-batool-69a145408/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool)
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-**Web Development**
-- HTML5
-- CSS3
-- JavaScript
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI & Machine Learning**
-- Python
-- Machine Learning
-- Data Processing with Pandas and NumPy
-- AI-Powered Applications
+### AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
 
-**Automation & Tools**
-- n8n Workflow Automation
-- AI Agents and Chatbot Integration
-- Git and GitHub
-- VS Code
+### Tools & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Fake Job Detection and Awareness System
+### 01 · Fake Job Detection and Awareness System
+A machine-learning-based application that helps users assess potentially fraudulent job postings through text analysis, image OCR, risk scoring, and URL verification.
 
-A machine-learning-based application designed to help users identify potentially fraudulent job postings and understand job-related risks.
+**Focus:** Machine Learning · Python · Flask · OCR
 
-- Detects potentially fake or genuine job postings using text analysis
-- Supports job-post image analysis with OCR
-- Provides risk scores and awareness tips
-- Includes URL verification features
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Fake-Job-Protection-Awareness-System)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://job-detection-64hm.vercel.app/)
 
-**Technologies:** Python, Flask, Machine Learning, Pandas, NumPy, OCR
+### 02 · AI Verse
+An AI-focused web project exploring modern digital experiences and AI-related solutions.
 
-🔗 [GitHub Repository](https://github.com/Fiza-batool/Fake-Job-Protection-Awareness-System) · [Live Demo](https://job-detection-64hm.vercel.app/)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/AI-Verse)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-verse-six.vercel.app/)
 
-### 2. AI Verse
+### 03 · Olive & Flame
+A restaurant website project featuring a polished visual presentation for a dining brand.
 
-An AI-focused web application built to explore and present AI-powered digital experiences.
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/OLIVE-AND-FLAME)
 
-🔗 [GitHub Repository](https://github.com/Fiza-batool/AI-Verse) · [Live Demo](https://ai-verse-six.vercel.app/)
+### 04 · Fitness Gym Website
+A fitness website showcasing workout programs, membership plans, and fitness-related content.
 
-### 3. Olive & Flame
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Fitness-gym-website)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=netlify&logoColor=white)](https://fitnessgymwe.netlify.app/)
 
-A restaurant website project focused on presenting a polished food and dining experience through modern web design.
+### 05 · Sugar & Spice Bakery
+A bakery website concept designed to present desserts, bakery products, and menu information in an appealing layout.
 
-🔗 [GitHub Repository](https://github.com/Fiza-batool/OLIVE-AND-FLAME)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Sugar-Spice)
 
-### 4. Fitness Gym Website
+### 06 · Elevate Test Prep Academy
+An educational website concept featuring test preparation programs, academic mentoring, FAQs, and an n8n-connected chatbot.
 
-A responsive fitness website showcasing workout programs, membership plans, and fitness-related content.
-
-🔗 [GitHub Repository](https://github.com/Fiza-batool/Fitness-gym-website) · [Live Demo](https://fitnessgymwe.netlify.app/)
-
-### 5. Sugar & Spice Bakery
-
-A bakery website concept designed to showcase desserts, bakery products, and menu information in an attractive layout.
-
-🔗 [GitHub Repository](https://github.com/Fiza-batool/Sugar-Spice)
-
-### 6. Elevate Test Prep Academy
-
-An educational website concept presenting test preparation programs, academic mentoring, FAQs, and an interactive chatbot connected to an n8n workflow.
-
-🔗 [GitHub Repository](https://github.com/Fiza-batool/Elevate-Academy)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Elevate-Academy)
 
 ---
 
-## 🎯 What I'm Working Toward
+## 🎯 Current Interests
 
-- Building practical AI applications and intelligent agents
-- Developing chatbots and automated workflows
-- Improving web development skills
-- Creating useful projects that solve real-world problems
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Fiza Batool](https://www.linkedin.com/in/fiza-batool-69a145408/)
-- 🧑‍💻 GitHub: [Fiza-batool](https://github.com/Fiza-batool)
+- Building AI applications and exploring AI agents
+- Developing chatbots and automated workflows using n8n
+- Creating responsive, modern web experiences
+- Applying machine learning to practical problems
+- Continuously improving my development skills
 
 ---
 
-*Thanks for visiting my GitHub profile! Feel free to explore my repositories and projects.*
+## 🤝 Let's Connect
 
+I'm interested in learning, collaborating, and working on meaningful technology projects.
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/fiza-batool-69a145408/)
+- **GitHub:** [Explore my repositories](https://github.com/Fiza-batool)
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my projects.*
 <!--
 **Fiza-batool/Fiza-batool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
