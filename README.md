@@ -42,6 +42,9 @@ A machine-learning-based application that helps users assess potentially fraudul
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Fake-Job-Protection-Awareness-System)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)(Fakejob.png)](https://job-detection-64hm.vercel.app/)
 
+[![Fake Job Detection Website Preview](https://raw.githubusercontent.com/Fiza-batool/Fake-Job-Protection-Awareness-System/main/Fakejob.png)](https://job-detection-64hm.vercel.app/)
+
+
 ### 02 · AI Verse
 An AI-focused web project exploring modern digital experiences and AI-related solutions.
 
