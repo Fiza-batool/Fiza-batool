@@ -51,7 +51,7 @@ An AI-focused web project exploring modern digital experiences and AI-related so
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/AI-Verse)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-verse-six.vercel.app/)
 
-[![AI Verse Website Preview](https://raw.githubusercontent.com/Fiza-batool/AI-Verse/main/homepage.png)](https://ai-verse-six.vercel.app/)
+[![AI Verse Website Preview](https://raw.githubusercontent.com/Fiza-batool/AI-Verse/main/home.png)](https://ai-verse-six.vercel.app/)
 
 
 ### 03 · Olive & Flame
