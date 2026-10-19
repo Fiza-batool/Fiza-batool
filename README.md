@@ -58,6 +58,8 @@ An AI-focused web project exploring modern digital experiences and AI-related so
 A restaurant website project featuring a polished visual presentation for a dining brand.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/OLIVE-AND-FLAME)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=netlify&logoColor=white)](https://olive-and-flame.netlify.app/)
+
 
 ### 04 · Fitness Gym Website
 A fitness website showcasing workout programs, membership plans, and fitness-related content.
@@ -69,11 +71,13 @@ A fitness website showcasing workout programs, membership plans, and fitness-rel
 A bakery website concept designed to present desserts, bakery products, and menu information in an appealing layout.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Sugar-Spice)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=netlify&logoColor=white)](https://sugarspicebakehouse.netlify.app/)
 
 ### 06 · Elevate Test Prep Academy
 An educational website concept featuring test preparation programs, academic mentoring, FAQs, and an n8n-connected chatbot.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Elevate-Academy)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=netlify&logoColor=white)](https://elevateacedamy.netlify.app/)
 
 ---
 
