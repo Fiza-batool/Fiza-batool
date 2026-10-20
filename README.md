@@ -70,17 +70,27 @@ A fitness website showcasing workout programs, membership plans, and fitness-rel
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Fitness-gym-website)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=netlify&logoColor=white)](https://fitnessgymwe.netlify.app/)
 
+[![Fitness Gym Website Preview](https://raw.githubusercontent.com/Fiza-batool/Fitness-gym-website/main/screenshot.png)](https://fitnessgymwe.netlify.app/)
+
+
+
 ### 05 · Sugar & Spice Bakery
 A bakery website concept designed to present desserts, bakery products, and menu information in an appealing layout.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Sugar-Spice)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=netlify&logoColor=white)](https://sugarspicebakehouse.netlify.app/)
 
+[![Sugar & Spice Bakery Website Preview](https://raw.githubusercontent.com/Fiza-batool/Sugar-Spice/main/screenshot.png)](https://github.com/Fiza-batool/Sugar-Spice)
+
+
 ### 06 · Elevate Test Prep Academy
 An educational website concept featuring test preparation programs, academic mentoring, FAQs, and an n8n-connected chatbot.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/Elevate-Academy)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=netlify&logoColor=white)](https://elevateacedamy.netlify.app/)
+
+[![Elevate Academy Website Preview](https://raw.githubusercontent.com/Fiza-batool/Elevate-Academy/main/screenshot.png)](https://github.com/Fiza-batool/Elevate-Academy)
+
 
 ---
 
