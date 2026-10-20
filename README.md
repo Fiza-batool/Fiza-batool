@@ -60,6 +60,9 @@ A restaurant website project featuring a polished visual presentation for a dini
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fiza-batool/OLIVE-AND-FLAME)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=netlify&logoColor=white)](https://olive-and-flame.netlify.app/)
 
+[![Olive & Flame Website Preview](https://raw.githubusercontent.com/Fiza-batool/OLIVE-AND-FLAME/main/homepage.png)](https://github.com/Fiza-batool/OLIVE-AND-FLAME)
+
+
 
 ### 04 · Fitness Gym Website
 A fitness website showcasing workout programs, membership plans, and fitness-related content.
